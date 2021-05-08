@@ -27,7 +27,6 @@ export const Artist = ({ artist }) => {
             wallet={artist.wallet}
             name={data.alias}
             site={data.site}
-            telegram={data.telegram}
             twitter={data.twitter}
             github={data.github}
             reddit={data.reddit}

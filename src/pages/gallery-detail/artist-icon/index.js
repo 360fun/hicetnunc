@@ -7,7 +7,6 @@ export const ArtistLogo = ({
   wallet,
   name,
   site,
-  telegram,
   twitter,
   instagram,
   github,
@@ -36,7 +35,6 @@ export const ArtistLogo = ({
         )}
         <ArtistSocials
           site={site}
-          telegram={telegram}
           twitter={twitter}
           instagram={instagram}
           github={github}
